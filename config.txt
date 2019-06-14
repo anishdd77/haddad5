@@ -1,4 +1,4 @@
-token=(process.env.BOT_TOKEN)
+token=NTY3MDc4MzI3MjExMzkzMDI1.XQOuBg.DF4h45ABpktImsgjlm7WwooEwnQ
 owner=484326398568300555
 prefix=*
 game=Alpha Bots!
